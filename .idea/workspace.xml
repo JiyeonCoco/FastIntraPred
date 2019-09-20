@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bcfba4e0-42bd-49f4-aa91-78e269615a22" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LoadCfg.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LoadData.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Logging.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MainNetwork.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tensorboard.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config.yml" afterDir="false" />
-    </list>
+    <list default="true" id="bcfba4e0-42bd-49f4-aa91-78e269615a22" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -165,12 +155,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1568999855177</updated>
-      <workItem from="1568999856312" duration="760000" />
+      <workItem from="1568999856312" duration="1169000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="760000" />
+    <option name="totallyTimeSpent" value="1169000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
