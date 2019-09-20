@@ -1,0 +1,25 @@
+NET_INFO_PATH : ./config.yml
+EXPERIMENT_NAME : jyjung_test
+IS_FULL_MODE : 0   # 0: rmd mode (6 or 11 modes) / 1: full mode (35 modes)
+
+TEST : 0
+TRAINING : 1
+VALIDATION : 2
+
+#path
+DATASET_PATH : ./Dataset/
+SAVE_PATH : model
+
+#DataShape (PU)
+PU_SIZE : [8, 32]
+QP_LIST : [22, 27, 32, 37]
+MODE_NUM : [6, 11, 35]
+
+# enable to change : INIT_LEARNING_RATE / PRINT_PERIOD / BATCH_SIZE / OBJECT_EPOCH / NUM_WORKER(thread 개수/2)
+INIT_LEARNING_RATE : 0.001
+PRINT_PERIOD : 10
+DATASET_NUM : 300
+BATCH_SIZE : 18
+OBJECT_EPOCH: 100
+GPU_MONITOR: 1
+NUM_WORKER : 1
