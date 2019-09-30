@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/FastIntraPred.iml" filepath="$PROJECT_DIR$/.idea/FastIntraPred.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/FastIntrPred.iml" filepath="$PROJECT_DIR$/.idea/FastIntrPred.iml" />
+>>>>>>> 655fa5d175f3afa1e49311a4ab6696c6df63f7ee
     </modules>
   </component>
 </project>
